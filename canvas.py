@@ -1,3 +1,5 @@
+# Original author:  Michelle Weck
+
 from tkinter import *  
 from PIL import ImageTk,Image
 import cv2  
